@@ -1,0 +1,2 @@
+#ignore any built typescript files(javascript output)
+/dist
